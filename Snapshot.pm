@@ -1,0 +1,72 @@
+package Bundle::Snapshot;
+
+$VERSION = '0.01';
+
+1;
+
+__END__
+
+=head1 NAME
+
+Bundle::Snapshot_2014_02_16_00 - Snapshot of installation on right-lung on Sun Feb 16 04:29:44 2014
+
+=head1 SYNOPSIS
+
+perl -MCPAN -e 'install Bundle::Snapshot'
+
+=head1 CONTENTS
+
+JSON
+
+HTTP::Date
+
+Data::UUID
+
+Exception::Class
+
+Sub::Attribute
+
+Net::SSLeay
+
+AnyEvent
+
+AnyEvent::Fork
+
+Moose
+
+Moose::Exception::ValidationFailedForTypeConstraint
+
+MooseX::Params::Validate
+
+MooseX::CascadeClearing
+
+Sentry::Log::Raven
+
+Net::Async::CassandraCQL
+
+Proc::CPUUsage
+
+UUID::Tiny
+
+Module::Find
+
+AnyEvent::HTTP
+
+Twiggy::Server
+
+Router::Resource
+
+Etcd
+
+HTTP::Parser::XS
+
+AnyEvent::WebSocket::Server
+
+LWP::Protocol::https
+
+Want
+
+=head1 AUTHOR
+
+Dan Burke
+
