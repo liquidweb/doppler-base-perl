@@ -70,6 +70,8 @@ Want
 
 Regexp::Common
 
+AnyEvent::RabbitMQ
+
 =head1 AUTHOR
 
 Dan Burke
