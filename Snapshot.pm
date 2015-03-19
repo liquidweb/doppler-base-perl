@@ -72,6 +72,8 @@ Regexp::Common
 
 AnyEvent::RabbitMQ
 
+REST::Client
+
 =head1 AUTHOR
 
 Dan Burke
