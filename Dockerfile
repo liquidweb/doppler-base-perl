@@ -8,8 +8,6 @@ RUN cpan -i Bundle::CPAN && rm -rf .cpan/build .cpan/Metadata .cpan/sources
 ADD Snapshot.pm /root/.cpan/Bundle/Snapshot.pm
 RUN cpan -i Bundle::Snapshot && rm -rf /root/.cpan/build /root/.cpan/Metadata /root/.cpan/sources
 RUN cpanm -n Net::AMQP::RabbitMQ
-RUN cpan -i MooseX::Types && rm -rf /root/.cpan/build /root/.cpan/Metadata /root/.cpan/sources
-RUN cpan -i Regexp::Common && rm -rf /root/.cpan/build /root/.cpan/Metadata /root/.cpan/sources
 
 RUN mkdir -p /usr/local/lp/libs /usr/local/lp/git /usr/local/lp/configs/LWConfig
 

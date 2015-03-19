@@ -40,6 +40,8 @@ MooseX::Params::Validate
 
 MooseX::CascadeClearing
 
+MooseX::Types
+
 Sentry::Log::Raven
 
 Net::Async::CassandraCQL
@@ -65,6 +67,8 @@ AnyEvent::WebSocket::Server
 LWP::Protocol::https
 
 Want
+
+Regexp::Common
 
 =head1 AUTHOR
 
