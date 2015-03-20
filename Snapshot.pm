@@ -74,6 +74,8 @@ AnyEvent::RabbitMQ
 
 REST::Client
 
+Throwable
+
 =head1 AUTHOR
 
 Dan Burke
