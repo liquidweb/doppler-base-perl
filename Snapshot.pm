@@ -76,6 +76,8 @@ REST::Client
 
 Throwable
 
+Config::Hosts
+
 =head1 AUTHOR
 
 Dan Burke
