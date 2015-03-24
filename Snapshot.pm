@@ -78,6 +78,8 @@ Throwable
 
 Config::Hosts
 
+Starman
+
 =head1 AUTHOR
 
 Dan Burke
