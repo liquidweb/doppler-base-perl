@@ -1,7 +1,7 @@
 FROM perl:5.20
 MAINTAINER Dan Burke <dburke@liquidweb.com>
 RUN apt-get clean && apt-get update && apt-get upgrade -y && apt-get clean
-RUN apt-get clean && apt-get update && apt-get install -y git vim && apt-get clean
+RUN apt-get clean && apt-get update && apt-get install -y git vim telnet && apt-get clean
 
 RUN cpan -i Bundle::CPAN && rm -rf .cpan/build .cpan/Metadata .cpan/sources
 
