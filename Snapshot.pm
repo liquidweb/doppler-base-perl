@@ -82,6 +82,16 @@ Starman
 
 Test::Spec
 
+Dist::Zilla
+
+Dist::Zilla::Plugin::GithubMeta
+
+Dist::Zilla::Plugin::ReadmeAnyFromPod
+
+Dist::Zilla::PluginBundle::Git
+
+Test::Mock::Wrapper
+
 =head1 AUTHOR
 
 Dan Burke
