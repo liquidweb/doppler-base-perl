@@ -80,6 +80,8 @@ Config::Hosts
 
 Starman
 
+Test::Spec
+
 =head1 AUTHOR
 
 Dan Burke
