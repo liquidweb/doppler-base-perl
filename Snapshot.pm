@@ -92,6 +92,8 @@ Dist::Zilla::PluginBundle::Git
 
 Test::Mock::Wrapper
 
+Devel::NYTProf
+
 =head1 AUTHOR
 
 Dan Burke
