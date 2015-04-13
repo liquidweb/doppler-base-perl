@@ -94,6 +94,8 @@ Test::Mock::Wrapper
 
 Devel::NYTProf
 
+Syntax::Feature::Try
+
 =head1 AUTHOR
 
 Dan Burke
