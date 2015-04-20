@@ -96,7 +96,7 @@ Devel::NYTProf
 
 Syntax::Feature::Try
 
-AnyEvent::Redis
+Redis::Fast
 
 =head1 AUTHOR
 
