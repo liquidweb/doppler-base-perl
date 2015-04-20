@@ -96,6 +96,8 @@ Devel::NYTProf
 
 Syntax::Feature::Try
 
+AnyEvent::Redis
+
 =head1 AUTHOR
 
 Dan Burke
