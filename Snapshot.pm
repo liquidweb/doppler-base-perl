@@ -98,6 +98,8 @@ Syntax::Feature::Try
 
 Redis::Fast
 
+Net::Address::IP::Local
+
 =head1 AUTHOR
 
 Dan Burke
