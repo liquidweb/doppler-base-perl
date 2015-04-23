@@ -100,6 +100,8 @@ Redis::Fast
 
 Net::Address::IP::Local
 
+MooseX::ExpiredAttribute
+
 =head1 AUTHOR
 
 Dan Burke
