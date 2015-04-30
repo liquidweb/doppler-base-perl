@@ -2,7 +2,7 @@
 
 PWD = $(shell pwd)
 
-PERL_IMAGE          ?= dwburke/base-perl
+PERL_IMAGE          ?= liquidweb/base-perl
 PERL_VERSION        ?= latest
 
 all: default
