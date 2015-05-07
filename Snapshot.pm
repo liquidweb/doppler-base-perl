@@ -102,6 +102,12 @@ Net::Address::IP::Local
 
 MooseX::ExpiredAttribute
 
+DBI
+
+DBD::Pg
+
+SQL::Abstract::More
+
 =head1 AUTHOR
 
 Dan Burke
