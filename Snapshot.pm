@@ -106,6 +106,8 @@ DBI
 
 DBD::Pg
 
+SQL::Abstract
+
 SQL::Abstract::More
 
 =head1 AUTHOR
