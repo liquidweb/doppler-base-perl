@@ -56,6 +56,8 @@ AnyEvent::HTTP
 
 Twiggy::Server
 
+Twiggy::Server::TLS
+
 Router::Resource
 
 Etcd
