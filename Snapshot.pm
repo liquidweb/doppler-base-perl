@@ -112,6 +112,8 @@ SQL::Abstract
 
 SQL::Abstract::More
 
+File::Slurp
+
 =head1 AUTHOR
 
 Dan Burke
