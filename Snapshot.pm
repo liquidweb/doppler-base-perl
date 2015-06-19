@@ -114,6 +114,8 @@ SQL::Abstract::More
 
 File::Slurp
 
+Net::Kubernetes
+
 =head1 AUTHOR
 
 Dan Burke
