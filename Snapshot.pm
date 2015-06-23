@@ -116,6 +116,8 @@ File::Slurp
 
 Net::Kubernetes
 
+YAML::XS
+
 =head1 AUTHOR
 
 Dan Burke
