@@ -118,6 +118,8 @@ Net::Kubernetes
 
 YAML::XS
 
+Template
+
 =head1 AUTHOR
 
 Dan Burke
