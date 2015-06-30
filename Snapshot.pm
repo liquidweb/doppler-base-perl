@@ -116,6 +116,8 @@ File::Slurp
 
 Net::Kubernetes
 
+App::sslmaker
+
 =head1 AUTHOR
 
 Dan Burke
