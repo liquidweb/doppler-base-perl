@@ -8,6 +8,8 @@ RUN cpan -i Bundle::CPAN && rm -rf .cpan/build .cpan/Metadata .cpan/sources
 ADD Snapshot.pm /root/.cpan/Bundle/Snapshot.pm
 RUN cpan -i -T Bundle::Snapshot && rm -rf /root/.cpan/build /root/.cpan/Metadata /root/.cpan/sources
 RUN cpanm -n Net::AMQP::RabbitMQ
+RUN cd /tmp && git clone https://github.com/theory/router-resource.git && cd router-resource && perl Build.PL && ./Build && ./Build install && cd /tmp && rm -rf router-resource
+
 
 RUN mkdir -p /usr/local/lp/libs /usr/local/lp/git /usr/local/lp/configs/LWConfig
 

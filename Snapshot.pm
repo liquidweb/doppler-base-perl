@@ -116,6 +116,10 @@ File::Slurp
 
 Net::Kubernetes
 
+YAML::XS
+
+Template
+
 App::sslmaker
 
 =head1 AUTHOR
