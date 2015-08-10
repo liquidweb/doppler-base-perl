@@ -122,7 +122,8 @@ Template
 
 App::sslmaker
 
+Nagios::NRPE 
+
 =head1 AUTHOR
 
 Dan Burke
-
