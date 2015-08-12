@@ -124,6 +124,10 @@ App::sslmaker
 
 Nagios::NRPE 
 
+Net::SNMP
+
+AnyEvent::SNMP
+
 =head1 AUTHOR
 
 Dan Burke
