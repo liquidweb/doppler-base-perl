@@ -122,8 +122,6 @@ Template
 
 App::sslmaker
 
-Nagios::NRPE
-
 Net::SNMP
 
 Net::SNMP::XS
