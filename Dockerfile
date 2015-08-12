@@ -6,9 +6,6 @@ RUN apt-get clean && apt-get update && apt-get install -y git vim telnet && apt-
 WORKDIR /root
 #RUN cpan -i Bundle::CPAN && rm -rf .cpan/build .cpan/Metadata .cpan/sources
 
-RUN cpanm -n Net::AMQP::RabbitMQ
-RUN cpanm -n DBD::Mock
-RUN cpanm -n Nagios::NRPE
 ADD install_modules.sh /root/install_modules.sh
 ADD modules.txt /root/modules.txt
 RUN /root/install_modules.sh

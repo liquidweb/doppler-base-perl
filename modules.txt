@@ -6,6 +6,7 @@ AnyEvent::SNMP
 AnyEvent::WebSocket::Server
 App::sslmaker
 Config::Hosts
+DBD::Mock
 DBD::Pg
 DBI
 Data::UUID
@@ -28,6 +29,8 @@ MooseX::CascadeClearing
 MooseX::ExpiredAttribute
 MooseX::Params::Validate
 MooseX::Types
+Nagios::NRPE
+Net::AMQP::RabbitMQ
 Net::Address::IP::Local
 Net::Async::CassandraCQL
 Net::Kubernetes
