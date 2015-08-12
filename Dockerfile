@@ -9,7 +9,7 @@ WORKDIR /root
 ADD install_modules.sh /root/install_modules.sh
 ADD modules.txt /root/modules.txt
 RUN /root/install_modules.sh
-RUN cd /tmp && git clone https://github.com/theory/router-resource.git && cd router-resource && perl Build.PL && ./Build && ./Build install && cd /tmp && rm -rf router-resource
+RUN cpanm -n git://github.com/theory/router-resource.git
 
 RUN mkdir -p /usr/local/lp/libs /usr/local/lp/git /usr/local/lp/configs/LWConfig
 
