@@ -122,9 +122,11 @@ Template
 
 App::sslmaker
 
-Nagios::NRPE 
+Nagios::NRPE
 
 Net::SNMP
+
+Net::SNMP::XS
 
 AnyEvent::SNMP
 
