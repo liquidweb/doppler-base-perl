@@ -39,7 +39,6 @@ Net::Kubernetes
 Net::SNMP
 Net::SNMP::XS
 Net::SSLeay
-NetSNMP::OID
 Proc::CPUUsage
 REST::Client
 Redis::Fast
