@@ -21,7 +21,7 @@ delete:
 	docker rmi ${PERL_IMAGE}:${PERL_VERSION}
 
 out/perl-build.x: Dockerfile
-	docker build --tag="${PERL_IMAGE}" .
+	docker build --tag="${PERL_IMAGE}:${PERL_VERSION}" .
 	touch out/perl-build.x
 
 build: out/perl-build.x
