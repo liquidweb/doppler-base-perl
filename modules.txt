@@ -15,9 +15,9 @@ Dist::Zilla
 Dist::Zilla::Plugin::GithubMeta
 Dist::Zilla::Plugin::ReadmeAnyFromPod
 Dist::Zilla::PluginBundle::Git
+EV
 Etcd
 Exception::Class
-EV
 File::Slurp
 HTTP::Date
 HTTP::Parser::XS
