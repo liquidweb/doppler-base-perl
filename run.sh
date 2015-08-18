@@ -1,5 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 docker run -t -i --rm=true \
-	liquidweb/base-perl /bin/bash
+	liquidweb/base-perl:buildtest /bin/bash
 

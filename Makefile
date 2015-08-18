@@ -3,7 +3,7 @@
 PWD = $(shell pwd)
 
 PERL_IMAGE          ?= liquidweb/base-perl
-PERL_VERSION        ?= latest
+PERL_VERSION        ?= buildtest
 
 all: default
 
