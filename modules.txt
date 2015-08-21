@@ -29,6 +29,7 @@ Module::Find
 Moose
 Moose::Exception::ValidationFailedForTypeConstraint
 MooseX::CascadeClearing
+MooseX::Event
 MooseX::ExpiredAttribute
 MooseX::Params::Validate
 MooseX::Types
