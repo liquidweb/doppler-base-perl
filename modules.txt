@@ -1,5 +1,6 @@
 AnyEvent
 AnyEvent::Fork
+AnyEvent::Fork::Pool
 AnyEvent::HTTP
 AnyEvent::RabbitMQ
 AnyEvent::SNMP
