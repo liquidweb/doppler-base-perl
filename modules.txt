@@ -24,7 +24,6 @@ HTTP::Date
 HTTP::Parser::XS
 JSON
 JSON::XS
-LWP::ConnCache::Resolving
 LWP::Protocol::https
 Module::Find
 Moose
