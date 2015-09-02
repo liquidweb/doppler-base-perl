@@ -10,7 +10,6 @@ ADD install_modules.sh /root/install_modules.sh
 ADD modules.txt /root/modules.txt
 RUN /root/install_modules.sh
 RUN cpanm -n git://github.com/theory/router-resource.git
-RUN cpanm -n LWP::ConnCache::Resolving
 
 RUN mkdir -p /usr/local/lp/libs /usr/local/lp/git /usr/local/lp/configs/LWConfig
 
