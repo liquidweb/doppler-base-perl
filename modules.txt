@@ -53,6 +53,7 @@ Starman
 Sub::Attribute
 Syntax::Feature::Try
 Template
+Test::Mock::Redis
 Test::Mock::Wrapper
 Test::Spec
 Throwable
