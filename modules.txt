@@ -18,6 +18,7 @@ Dist::Zilla::Plugin::ReadmeAnyFromPod
 Dist::Zilla::PluginBundle::Git
 EV
 Etcd
+Etsy::StatsD
 Exception::Class
 File::Slurp
 HTTP::Date
