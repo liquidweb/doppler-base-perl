@@ -7,6 +7,7 @@ AnyEvent::SNMP
 AnyEvent::WebSocket::Server
 App::sslmaker
 Config::Hosts
+Crypt::RSA
 DBD::Mock
 DBD::Pg
 DBI
