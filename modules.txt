@@ -6,6 +6,7 @@ AnyEvent::RabbitMQ
 AnyEvent::SNMP
 AnyEvent::WebSocket::Server
 App::sslmaker
+Archive::Zip
 Config::Hosts
 Crypt::RSA
 DBD::Mock
