@@ -38,6 +38,7 @@ MooseX::ExpiredAttribute
 MooseX::Params::Validate
 MooseX::Types
 Nagios::NRPE
+Net::Amazon::S3
 Net::AMQP::RabbitMQ
 Net::Address::IP::Local
 Net::Async::CassandraCQL
