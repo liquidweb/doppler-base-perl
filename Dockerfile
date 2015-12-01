@@ -9,10 +9,9 @@ WORKDIR /root
 ADD install_modules.sh /root/install_modules.sh
 ADD modules.txt /root/modules.txt
 RUN /root/install_modules.sh
-
+RUN cpanm -n git://github.com/ctriv/mojo-rabbitmq-client.git
 RUN mkdir -p /usr/local/lp/libs /usr/local/lp/git /usr/local/lp/configs/LWConfig
 
 WORKDIR /usr/local/lp/git/doppler-dev
 
 CMD /bin/bash
-

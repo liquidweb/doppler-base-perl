@@ -26,6 +26,8 @@ Exception::Class
 File::Slurp
 HTTP::Date
 HTTP::Parser::XS
+IO::Socket::Socks
+IO::Socket::SSL
 JSON
 JSON::XS
 LWP::Protocol::https
@@ -37,11 +39,13 @@ MooseX::Event
 MooseX::ExpiredAttribute
 MooseX::Params::Validate
 MooseX::Types
+Mojolicious
 Nagios::NRPE
 Net::Amazon::S3
 Net::AMQP::RabbitMQ
 Net::Address::IP::Local
 Net::Async::CassandraCQL
+Net::DNS::Native
 Net::Kubernetes
 Net::SNMP
 Net::SNMP::XS
@@ -65,6 +69,7 @@ Test::Spec
 Throwable
 Twiggy::Server
 Twiggy::Server::TLS
+URI::Find
 UUID::Tiny
 Want
 YAML::XS
