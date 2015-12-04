@@ -8,6 +8,7 @@ AnyEvent::WebSocket::Server
 App::sslmaker
 Archive::Zip
 Config::Hosts
+Crypt::Cipher::AES
 Crypt::RSA
 DBD::Mock
 DBD::Pg
