@@ -9,6 +9,7 @@ App::sslmaker
 Archive::Zip
 Config::Hosts
 Crypt::Cipher::AES
+Cyrpt::Mode::CFB
 Crypt::RSA
 DBD::Mock
 DBD::Pg
