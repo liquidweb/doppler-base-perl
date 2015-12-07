@@ -42,7 +42,9 @@ MooseX::ExpiredAttribute
 MooseX::Params::Validate
 MooseX::Types
 Mojolicious
+Mojolicious::Plugin::Bcrypt
 Mojo::Redis2
+Protocol::Redis::XS
 Nagios::NRPE
 Net::Amazon::S3
 Net::AMQP::RabbitMQ
