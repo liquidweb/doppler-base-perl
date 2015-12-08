@@ -7,6 +7,7 @@ AnyEvent::SNMP
 AnyEvent::WebSocket::Server
 App::sslmaker
 Archive::Zip
+CHI
 Config::Hosts
 Crypt::Cipher::AES
 Crypt::Mode::CFB
