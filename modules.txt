@@ -1,3 +1,4 @@
+Amazon::S3
 AnyEvent
 AnyEvent::Fork
 AnyEvent::Fork::Pool
