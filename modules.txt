@@ -12,7 +12,6 @@ Crypt::RSA
 DBD::Mock
 DBD::Pg
 DBI
-Data::Random
 Data::UUID
 Devel::NYTProf
 Dist::Zilla
