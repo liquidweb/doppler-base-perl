@@ -1,3 +1,4 @@
+Amazon::S3
 AnyEvent
 AnyEvent::Fork
 AnyEvent::Fork::Pool
@@ -7,7 +8,10 @@ AnyEvent::SNMP
 AnyEvent::WebSocket::Server
 App::sslmaker
 Archive::Zip
+CHI
 Config::Hosts
+Crypt::Cipher::AES
+Crypt::Mode::CFB
 Crypt::RSA
 DBD::Mock
 DBD::Pg
@@ -39,7 +43,9 @@ MooseX::ExpiredAttribute
 MooseX::Params::Validate
 MooseX::Types
 Mojolicious
+Mojolicious::Plugin::Bcrypt
 Mojo::Redis2
+Protocol::Redis::XS
 Nagios::NRPE
 Net::Amazon::S3
 Net::AMQP::RabbitMQ
