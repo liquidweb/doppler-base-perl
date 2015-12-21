@@ -1,3 +1,4 @@
+Amazon::S3
 AnyEvent
 AnyEvent::Fork
 AnyEvent::Fork::Pool
@@ -15,7 +16,6 @@ Crypt::RSA
 DBD::Mock
 DBD::Pg
 DBI
-Data::Random
 Data::UUID
 Devel::NYTProf
 Dist::Zilla
