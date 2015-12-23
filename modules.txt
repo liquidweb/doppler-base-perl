@@ -30,7 +30,6 @@ Exception::Class
 File::Slurp
 HTTP::Date
 HTTP::Parser::XS
-HTTP::Server::Simple
 IO::Socket::Socks
 IO::Socket::SSL
 JSON
