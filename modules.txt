@@ -3,6 +3,7 @@ AnyEvent
 AnyEvent::Fork
 AnyEvent::Fork::Pool
 AnyEvent::HTTP
+AnyEvent::HTTPD
 AnyEvent::RabbitMQ
 AnyEvent::SNMP
 AnyEvent::WebSocket::Server
