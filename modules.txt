@@ -45,6 +45,7 @@ MooseX::Params::Validate
 MooseX::Types
 Mojolicious
 Mojolicious::Plugin::Bcrypt
+Mojolicious::Plugin::AssetPack
 Mojo::Redis2
 Protocol::Redis::XS
 Nagios::NRPE
