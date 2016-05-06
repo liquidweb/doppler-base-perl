@@ -35,6 +35,7 @@ IO::Socket::SSL
 JSON
 JSON::XS
 LWP::Protocol::https
+LWP::UserAgent::DNS::Hosts
 Module::Find
 Moose
 Moose::Exception::ValidationFailedForTypeConstraint
