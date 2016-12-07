@@ -5,6 +5,7 @@ AnyEvent::Fork::Pool
 AnyEvent::HTTP
 AnyEvent::HTTPD
 AnyEvent::RabbitMQ
+AnyEvent::Redis
 AnyEvent::SNMP
 AnyEvent::WebSocket::Server
 App::sslmaker
